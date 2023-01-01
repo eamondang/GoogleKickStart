@@ -1,0 +1,76 @@
+#+TITLE: Google Kick Start
+#+AUTHOR: Dang Quang Vu
+#+EMAIL:  vugomars@gmail.com
+
+#+begin_quote
+Google's longest-running global coding competition, Kick Start calls on programmers around the world to solve challenging, algorithmic puzzles against the clock.
+I want to challenge myself and improve my programming thinking through this contest.
+#+end_quote
+
+* Rounds                                                                :TOC:
+- [[#round-a][Round A]]
+- [[#round-b][Round B]]
+- [[#round-c][Round C]]
+- [[#round-d][Round D]]
+- [[#round-e][Round E]]
+- [[#round-f][Round F]]
+- [[#round-g][Round G]]
+- [[#round-h][Round H]]
+
+* Round A
+| #   | Title | Time | Space | Difficult | Note |
+| #A |       |      |       |           |      |
+| #B |       |      |       |           |      |
+| #C |       |      |       |           |      |
+| #D |       |      |       |           |      |
+
+
+* Round B
+| #   | Title | Time | Space | Difficult | Note |
+| #A |       |      |       |           |      |
+| #B |       |      |       |           |      |
+| #C |       |      |       |           |      |
+| #D |       |      |       |           |      |
+
+* Round C
+| #  | Title | Time | Space | Difficult | Note |
+| #A |       |      |       |           |      |
+| #B |       |      |       |           |      |
+| #C |       |      |       |           |      |
+| #D |       |      |       |           |      |
+
+* Round D
+| #   | Title | Time | Space | Difficult | Note |
+| #A |       |      |       |           |      |
+| #B |       |      |       |           |      |
+| #C |       |      |       |           |      |
+| #D |       |      |       |           |      |
+
+
+* Round E
+| #   | Title | Time | Space | Difficult | Note |
+| #A |       |      |       |           |      |
+| #B |       |      |       |           |      |
+| #C |       |      |       |           |      |
+| #D |       |      |       |           |      |
+
+* Round F
+| #   | Title | Time | Space | Difficult | Note |
+| #A |       |      |       |           |      |
+| #B |       |      |       |           |      |
+| #C |       |      |       |           |      |
+| #D |       |      |       |           |      |
+
+* Round G
+| #   | Title | Time | Space | Difficult | Note |
+| #A |       |      |       |           |      |
+| #B |       |      |       |           |      |
+| #C |       |      |       |           |      |
+| #D |       |      |       |           |      |
+
+* Round H
+| #   | Title | Time | Space | Difficult | Note |
+| #A |       |      |       |           |      |
+| #B |       |      |       |           |      |
+| #C |       |      |       |           |      |
+| #D |       |      |       |           |      |
